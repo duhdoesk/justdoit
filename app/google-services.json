@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "281099202751",
+    "project_id": "just-do-it-99c3b",
+    "storage_bucket": "just-do-it-99c3b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:281099202751:android:6bd662854fc210d96ad60a",
+        "android_client_info": {
+          "package_name": "com.hotwater.justdoit"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC-ZWHA2zN-yC_nXtArOva872UovjDvTwQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
