@@ -15,10 +15,10 @@ data class Task(
     val isDone: Boolean = false,
 
     @ColumnInfo(name = "date_creation")
-    val dateOfCreation: String,
+    val dateOfCreation: Long,
 
     @ColumnInfo(name = "date_conclusion")
-    val dateOfConclusion: String?,
+    val dateOfConclusion: Long?,
 
     @ColumnInfo(name = "title")
     val title: String,
